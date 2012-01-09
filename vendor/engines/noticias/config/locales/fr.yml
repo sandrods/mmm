@@ -1,0 +1,25 @@
+fr:
+  shared:
+    admin:
+      image_picker:
+        image: image
+  plugins:
+    noticias:
+      title: Noticias
+  admin:
+    noticias:
+      actions:
+        create_new: Créer un(e) nouve(au/l/lle) Noticia
+        reorder: Réordonner les Noticias
+        reorder_done: Fin de réordonnancement des Noticias
+      records:
+        title: Noticias
+        sorry_no_results: "Désolé ! Aucun résultat."
+        no_items_yet: 'Il n''y a actuellement aucun(e) Noticia. Cliquer sur "Créer un(e) nouve(au/l/lle) Noticia" pour créer votre premi(er/ère) noticia.'
+      noticia:
+        view_live_html: Voir ce(t/tte) noticia <br/><em>(Ouvre une nouvelle fenêtre)</em>
+        edit: Modifier ce(t/tte) noticia
+        delete: Supprimer définitivement ce(t/tte) noticia
+  noticias:
+    show:
+      other: Autres Noticias
